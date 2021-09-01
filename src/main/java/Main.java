@@ -8,7 +8,7 @@ public class Main
 		// Solicite al usuario ingresar el valor de un vector de traslación 
 		// Aplique el vector de traslación anterior a cada uno de los objetos referidos
 		// Muestre las posiciones originales y finales de cada uno de los objetos referidos
-                int x,y;
+                 int x,y;
 		 System.out.println ("Por favor introduzca los valores del vector de Traslacion: ");
 		 System.out.println ("x: ");
 		 Scanner entrada = new Scanner(System.in);
